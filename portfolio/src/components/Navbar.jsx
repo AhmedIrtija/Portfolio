@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         {/* Name */}
         <motion.h1
-          className="text-2xl font-bold tracking-wide cursor-pointer"
+          className="text-4xl font-bold tracking-wide cursor-pointer"
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
