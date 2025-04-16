@@ -2,7 +2,7 @@
 
 This is my portfolio website where I showcase my projects, skills, and experience.
 
-## 🌐 Live Website
+## Live Website
 
 
 
@@ -43,4 +43,4 @@ npm run dev
 
 ## Contact
 
-Reach out through the contact form on the site or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedirtija/).
+Reach out through the contact form on the site or connect with me on [LinkedIn](www.linkedin.com/in/ahmed-irtija).
