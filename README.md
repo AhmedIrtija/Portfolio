@@ -6,7 +6,7 @@ This is my portfolio website where I showcase my projects, skills, and experienc
 
 
 
-## 🧰 Tools Used
+##  Tools Used
 
 - **React** – Used to build the website with reusable components.
 - **Vite** – A fast build tool that helps with development and optimization.
@@ -17,27 +17,15 @@ This is my portfolio website where I showcase my projects, skills, and experienc
 - **EmailJS** – Lets users send messages through the contact form without a backend.
 - **React Icons** – Provides icons for links like GitHub and live demos.
 
-## 🎨 Features
+## Features
 
 - Interactive star background
 - Filterable project cards
 - Animated transitions
 - Contact form that works without a backend
 - Fully responsive for all devices
-- Dark mode-friendly colors
 
-## 📁 Project Structure (Simplified)
-
-```
-src/
-├── components/       # Reusable parts like Navbar and Footer
-├── sections/         # Main sections like Projects and Contact
-├── App.jsx           # Main component
-├── main.jsx          # Entry point
-├── index.css         # Tailwind styles
-```
-
-## 🛠️ How to Run Locally
+## How to Run Locally
 
 ```bash
 # Clone the repo
@@ -53,10 +41,6 @@ npm install
 npm run dev
 ```
 
-## 📬 Contact
+## Contact
 
 Reach out through the contact form on the site or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedirtija/).
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
