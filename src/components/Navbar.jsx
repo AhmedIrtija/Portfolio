@@ -3,7 +3,7 @@ import { Link as ScrollLink } from 'react-scroll'
 import { motion, AnimatePresence } from 'framer-motion'
 import { HiMenuAlt3, HiX } from 'react-icons/hi'
 
-const navLinks = ['home', 'experience', 'projects', 'contact']
+const navLinks = ['home', 'experience', 'education', 'projects', 'contact']
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
