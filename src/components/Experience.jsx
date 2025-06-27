@@ -1,8 +1,19 @@
 import { motion } from 'framer-motion';
 import { Canvas } from '@react-three/fiber';
 import { Stars } from '@react-three/drei';
+import { desc } from 'framer-motion/client';
 
 const experiences = [
+  {
+    company: "LBPM",
+    role: "Intern",
+    duration: "June 2025 - Present",
+    description: [
+      "Merging property databases using AppFolio and Excel to ensure accurate, organized data integration.",
+      "Managing billing records and invoices while maintaining an organized Google Workspace for easy access.",
+      "Creating custom AppFolio fields to digitize physical records and improve data control.",
+    ],
+  },
   {
     company: "UC Davis EcoCAR",
     role: "Software Engineer / Project Manager",
