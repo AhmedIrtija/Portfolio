@@ -5,13 +5,23 @@ import { desc } from 'framer-motion/client';
 
 const experiences = [
   {
+    company: "Compass Co., Ltd.",
+    role: "Contractor",
+    duration: "July 2025 - Present",
+    description: [
+      "Improving an application by fixing bugs and adding features such as calendar view, reservation management, and user database functionality.",
+      "Improving frontend usage by cleaning up and optimizing code.",
+      "Managing databases with SQLite to ensure accurate data storage and retrieval and containerizing the application with Docker to ensure reliable execution.",
+    ],
+  },
+  {
     company: "LBPM",
     role: "Intern",
-    duration: "June 2025 - Present",
+    duration: "June 2025 - August 2025",
     description: [
-      "Merging property databases using AppFolio and Excel to ensure accurate, organized data integration.",
-      "Managing billing records and invoices while maintaining an organized Google Workspace for easy access.",
-      "Creating custom AppFolio fields to digitize physical records and improve data control.",
+      "Merged multiple property databases using AppFolio and Excel.",
+      "Developing data fields on AppFolio to digitize and manage physical records.",
+      "Maintaining and adding features on the LBPM official website and automating filling W9 forms for properties using Python and Google Sheet.",
     ],
   },
   {
