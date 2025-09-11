@@ -9,7 +9,7 @@ const experiences = [
     role: "Contractor",
     duration: "July 2025 - Present",
     description: [
-      "Improving an application by fixing bugs and adding features such as calendar view, reservation management, and user database functionality.",
+      "Improving a Ruby application by fixing bugs and adding features such as calendar view, reservation management, and user database functionality.",
       "Improving frontend usage by cleaning up and optimizing code.",
       "Managing databases with SQLite to ensure accurate data storage and retrieval and containerizing the application with Docker to ensure reliable execution.",
     ],
